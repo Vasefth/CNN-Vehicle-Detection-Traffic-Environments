@@ -22,6 +22,9 @@ import matplotlib.pyplot as plt
 import glob
 from sklearn.model_selection import train_test_split
 
+from google.colab import drive
+drive.mount('/content/drive')
+
 """# setting parameters"""
 
 DIR = "/content/drive/My Drive/working/datasets/cars/"
