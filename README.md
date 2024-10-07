@@ -1,7 +1,3 @@
-Here's an updated version of the project-level README file, reflecting your paper and thesis:
-
----
-
 # CNN-Vehicle-Detection-Traffic-Environments
 
 This repository contains the code for the thesis and forthcoming paper, *"CNN-based Object Detection for Autonomous Driving: A Comparative Analysis."* The project explores the application of various convolutional neural network (CNN) architectures—Faster R-CNN, YOLO, and VGG16—for vehicle detection in traffic environments. Each model is evaluated based on metrics such as precision, recall, and mean Average Precision (mAP) under diverse conditions.
